@@ -1,0 +1,40 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.header-section,
+.hero-section {
+    display: flex;
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.image-group {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.image-group .image {
+    border: 2px solid#3882F6;
+}
+
+.third-section {
+    background-color: #e5e7eb;
+    height: 100px;
+}
+
+.banner {
+    background-color: #3882F6;
+    display: flex;
+    margin: 100px;
+    padding: 30px;
+    justify-content: center;
+}
+
+.footer-section {
+    background-color: #1f2937;
+    color: #f9faf8;
+    height: 50px;
+}
